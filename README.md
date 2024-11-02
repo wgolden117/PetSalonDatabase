@@ -1,10 +1,10 @@
 # Pet Salon Database
 
-This repository contains the SQL code and documentation for the **Pet Salon Database**, a project developed to manage and track operations for a pet salon, including information on employees, customers, pets, and grooming services. This database was created using **MySQL** and managed through **DataGrip** as our development environment.
+This repository contains the SQL code and documentation for the **Pet Salon Database**, a project developed to manage and track operations for a pet salon, including information on employees, customers, and pets. This database was created using **MySQL** and managed through **DataGrip** as our development environment.
 
 ## Project Purpose
 
-The purpose of this database is to provide a structured and efficient way to store and access essential salon data. It covers a range of functionalities required to support a pet salon, from managing employee schedules and customer records to recording pet grooming services. This project was developed as a team effort to ensure a thorough and well-rounded approach to database design.
+The purpose of this database is to provide a structured and efficient way to store and access essential salon data. It covers a range of functionalities required to support a pet salon, from managing employee information and customer records to recording pet grooming services. This project was developed as a team effort to ensure a thorough and well-rounded approach to database design.
 
 ## Team Members
 
