@@ -29,15 +29,13 @@ The Pet Salon Database includes several tables representing the core elements of
 - **Customer**: Tracks customer information.
 - **Pet**: Records details for each pet served at the salon.
 
-Additional tables were created to support relationships and manage services provided to each customer’s pets.
-
 ## SQL Code and Queries
 
 The `Pet_Salon.sql` file contains all SQL commands for:
 
 - **Creating Tables**: Defines the structure for each table and relationships.
 - **Inserting Data**: Sample data was added for testing and demonstration purposes.
-- **Custom Queries**: Includes key queries to retrieve information efficiently for various business scenarios, such as viewing upcoming appointments and service history.
+- **Custom Queries**: Includes key queries to retrieve information efficiently for various business scenarios.
 
 ## How to Use This Repository
 
@@ -45,4 +43,4 @@ The `Pet_Salon.sql` file contains all SQL commands for:
 2. **Run in DataGrip**: Open the `.sql` file in DataGrip or your preferred SQL IDE.
 3. **Execute SQL**: Run the SQL code to create and populate the database tables.
 
-We hope this project serves as a useful tool for managing the core operations of a pet salon.
+We hope this project serves as a simple, useful tool for managing the core operations of a pet salon.
