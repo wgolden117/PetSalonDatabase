@@ -28,7 +28,6 @@ The Pet Salon Database includes several tables representing the core elements of
 - **Employee**: Stores details about salon employees.
 - **Customer**: Tracks customer information.
 - **Pet**: Records details for each pet served at the salon.
-- **Grooming Services**: Captures grooming services provided to each pet.
 
 Additional tables were created to support relationships and manage services provided to each customer’s pets.
 
